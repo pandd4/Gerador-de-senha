@@ -1,6 +1,12 @@
-# Gerador-de-senha
-🚀✨ Este projeto ampliou meu conhecimento em desenvolvimento web, permitindo-me aplicar conceitos básicos de JavaScript, HTML e CSS na criação de uma aplicação funcional.
+# 🚀 Projeto de Desenvolvimento Web  
 
-Foi usados as linguagens de programação HTML5, CSS3, JAVASCRIPT.
+Este projeto me ajudou a aprimorar meus conhecimentos em **desenvolvimento web**, permitindo a aplicação prática de conceitos fundamentais de **JavaScript, HTML e CSS** para criar uma aplicação funcional e interativa.  
 
-💻 lINK DE TESTE: https://codepen.io/Amanda-Santos-the-builder/pen/eYxqBWx
+### 🛠 **Tecnologias Utilizadas**  
+- **HTML5** → Estrutura da aplicação  
+- **CSS3** → Estilização e layout responsivo  
+- **JavaScript** → Funcionalidades dinâmicas  
+
+🔗 **Teste o projeto aqui:** [CodePen - Projeto Web](https://codepen.io/Amanda-Santos-the-builder/pen/eYxqBWx)  
+
+📌 **Desenvolvido por Amanda Santos** 🤍
